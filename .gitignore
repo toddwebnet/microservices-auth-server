@@ -1,3 +1,4 @@
+.idea
 storage/phpunit.db
 /node_modules
 /public/hot
