@@ -14,7 +14,7 @@
         "name": "i-dev-code/common",
         "version": "dev-master",
         "source": {
-          "url": "git@git.dev.idevcode.com:jtodd/idevcode-common.git",
+          "url": "git@github.com:toddwebnet/idevcode-common.git",
           "type": "git",
           "reference": "master"
         },
